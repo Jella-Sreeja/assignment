@@ -8,4 +8,4 @@ Click On START GAME: You Can Observe a Question on the home page , if you know t
 CLUES: Click on each clue to know the approach to answer the question given finally. You can go back and give your solution and verify the solution.
 
 #IMPORTANT:
-There is a bit error causing in the next page of login due to link generated, please do clcik on the url 2 times to access the next page.
+There is a bit error causing in the next page of login due to link generated, please do click enter on the url once to access the next page.
